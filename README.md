@@ -6,13 +6,10 @@
   <img src="https://img.shields.io/github/repo-size/kfe3/wallet-clipper?label=Size&color=3bc400">
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/JKsRYZ244U">
-
 
 # Preview 📸
 <p align="center">
-<img src="https://aziz.loves-you.xyz/niggers/🛸🍭👰🏻💆🏾🥸"> 
+<img src="https://cdn.nest.rip/uploads/fab2dd9e-e08c-454f-a970-90885abc880d.png"> 
 </p>
 
 
