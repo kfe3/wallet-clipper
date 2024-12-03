@@ -47,7 +47,7 @@ function aziziswhite() {
             }
 
         } catch (e) {
-            console.error("An error occurred:", e);
+            console.error(e);
         }
     }
 }
